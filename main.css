@@ -1,5 +1,5 @@
 body {
-  background-image: url(/aventuraGrafica/img/264293.jpg);
+  background-image: url(/img/264293.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
@@ -36,6 +36,9 @@ a {
   text-decoration: none;
   font-size: 20px;
   font-family: "Roboto", sans-serif;
+}
+a:link {
+  color: white;
 }
 a:visited {
   color: white;
