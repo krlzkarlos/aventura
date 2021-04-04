@@ -1,0 +1,94 @@
+body {
+  background-image: url(/aventuraGrafica/img/264293.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  margin-top: 15%;
+  /* border: 1px solid red; */
+}
+h1,
+h2 {
+  color: #43bb3e;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+p {
+  font-size: 20px;
+  max-width: 320px;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+
+img {
+  margin-top: 40px;
+  width: 200px;
+  border-radius: 30px;
+}
+
+li,
+a {
+  list-style: none;
+  text-decoration: none;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+}
+a:visited {
+  color: white;
+}
+a:hover {
+  color: red;
+}
+
+/* estilos gamer over */
+
+.gameroverimage {
+  margin-top: 0;
+  height: 30%;
+  width: 30%;
+  margin-left: 35%;
+}
+
+.tesorotitle {
+  font-size: 30px;
+  color: white;
+}
+
+.tesoroaffer {
+  margin-left: 38%;
+}
+.tesoroaffer a {
+  font-size: 40px;
+}
+
+/* estilos comida */
+.comidaimage {
+  margin-top: 0;
+  height: 30%;
+  width: 30%;
+  margin-left: 35%;
+}
+
+.comidatitle {
+  font-size: 30px;
+  color: white;
+}
+
+.comidaoption {
+  margin-left: 40%;
+}
+
+/* estilos a escape */
+.escapetitle {
+  color: #43bb3e;
+}
+.escapeaffer {
+  margin-left: 38%;
+}
+.escapeaffer a {
+  font-size: 40px;
+}
